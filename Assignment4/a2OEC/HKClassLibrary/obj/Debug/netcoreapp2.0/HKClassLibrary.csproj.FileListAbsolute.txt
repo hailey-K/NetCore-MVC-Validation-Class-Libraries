@@ -1,0 +1,9 @@
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\bin\Debug\netcoreapp2.0\HKClassLibrary.deps.json
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\bin\Debug\netcoreapp2.0\HKClassLibrary.dll
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\obj\Debug\netcoreapp2.0\HKClassLibrary.csprojResolveAssemblyReference.cache
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\obj\Debug\netcoreapp2.0\HKClassLibrary.csproj.CoreCompileInputs.cache
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\obj\Debug\netcoreapp2.0\HKClassLibrary.AssemblyInfoInputs.cache
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\obj\Debug\netcoreapp2.0\HKClassLibrary.AssemblyInfo.cs
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\bin\Debug\netcoreapp2.0\HKClassLibrary.pdb
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\obj\Debug\netcoreapp2.0\HKClassLibrary.dll
+G:\Git\NetCore-MVC-Validation-Class-Libraries\a2OEC\HKClassLibrary\obj\Debug\netcoreapp2.0\HKClassLibrary.pdb
